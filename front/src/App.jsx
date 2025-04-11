@@ -135,7 +135,7 @@ function App() {
               </div>
             </div>
             <div className="mt-4 text-sm text-gray-500">
-              <p>상호: 후이즈 왓</p>
+              <p>상호: 후이즈왓</p>
               <p>사업자등록번호: 846-05-03131</p>
               <p>대표: 김태호</p>
               <p>주소: 도농로중촌2길 26-5,A-202</p>
