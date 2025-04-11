@@ -135,10 +135,11 @@ function App() {
               </div>
             </div>
             <div className="mt-4 text-sm text-gray-500">
-              <p>사업자등록번호: 123-45-67890</p>
-              <p>대표: 홍길동</p>
-              <p>주소: 서울특별시 강남구 테헤란로 123</p>
-              <p>이메일: contact@csmorning.co.kr</p>
+              <p>상호: 후이즈 왓</p>
+              <p>사업자등록번호: 846-05-03131</p>
+              <p>대표: 김태호</p>
+              <p>주소: 도농로중촌2길 26-5,A-202</p>
+              <p>이메일: xogh2242@gmail.com</p>
             </div>
           </div>
         </div>
