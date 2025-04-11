@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'NanumBarunpen';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 가로 스크롤 방지 스타일 추가 */
+html,body,#root {
+    width:  100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    margin:0;
+    padding:0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* 사이드바 트랜지션 추가 */
+.transition-width {
+    transition-property: width;
+    transition-duration: 300ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
